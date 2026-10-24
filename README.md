@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Yakot 👋</h1>
-<p align="center"><b>Product architect · Founder of <a href="https://gates-tech.com">GATES Technology</a> · Egypt</b></p>
+<p align="center"><i>I plan, I build, I test. I can make the best ;)</i></p>
+<p align="center"><b>Product architect at <a href="https://gates-tech.com">GATES Technology</a> · Egypt</b></p>
 
 <p align="center">
   <a href="https://gates-tech.com"><img src="https://img.shields.io/badge/gates--tech.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="gates-tech.com"></a>
@@ -8,17 +9,17 @@
 </p>
 
 I design products end to end: the system, the business rules and every screen a person touches.
-I don't hand-write the code — I build with AI coding agents (Claude) as my engineering team, and I own
+I don't hand-write the code. I build with AI coding agents (Claude) as my engineering team, and I own
 the architecture, the decisions and the quality bar. One architect, real products, live in production.
 
 ## 🚪 What I'm building
 
 | Product | What it is | Link |
 |---|---|---|
-| 🎓 **Gcademy** | An Egyptian learning platform: video lessons, circles and study groups, quizzes with essay marking, live «watch together», teacher analytics and an AI help assistant (Milo) — in Arabic and English. | [g.gates-tech.com](https://g.gates-tech.com) |
-| 🔑 **GATES ID** | One account for every GATES app — sign in once, and each product opens with it. | [id.gates-tech.com](https://id.gates-tech.com) |
+| 🎓 **Gcademy** | An Egyptian learning platform: video lessons, circles and study groups, quizzes with essay marking, live «watch together», teacher analytics and an AI help assistant (Milo), in Arabic and English. | [g.gates-tech.com](https://g.gates-tech.com) |
+| 🔑 **GATES ID** | One account for every GATES app. Sign in once, and each product opens with it. | [id.gates-tech.com](https://id.gates-tech.com) |
 | 🏪 **Vendorya** | A system for shops: point of sale, stock, finance and reports across every branch. | [gates-tech.com](https://gates-tech.com) |
-| 💻 **G-Store** | Our own online shop for laptops and PCs — with a twist. *Coming soon.* | [gates-tech.com](https://gates-tech.com) |
+| 💻 **G-Store** | Our own online shop for laptops and PCs, with a twist. *Coming soon.* | [gates-tech.com](https://gates-tech.com) |
 | 🎧 **Gcare-Desk** | A help desk that keeps every support request in one place. *In the making.* | [gates-tech.com](https://gates-tech.com) |
 | 📱 **G-Desk** | An Android app for the GATES team, with Magi, our AI staff assistant, built in. | [gates-tech.com](https://gates-tech.com) |
 
@@ -43,7 +44,7 @@ Mobile first, Arabic and English from day one, and security reviews before every
 ![Bunny Stream](https://img.shields.io/badge/Bunny%20Stream-FF7854?style=flat-square&logo=bunnydotnet&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20by%20Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-<!-- 📊 GitHub stats — switch on once public repos/activity exist (the public stats service cannot see private repos,
+<!-- 📊 GitHub stats: switch on once public repos/activity exist (the public stats service cannot see private repos,
      so today it shows zeros and "No languages data"). To switch on: delete this comment wrapper.
 
 ## 📊 On GitHub
@@ -56,4 +57,4 @@ Mobile first, Arabic and English from day one, and security reviews before every
 
 ---
 
-<p align="center">🌐 <a href="https://gates-tech.com"><b>gates-tech.com</b></a> — to reach us, use the contact form there.</p>
+<p align="center">🌐 <a href="https://gates-tech.com"><b>gates-tech.com</b></a> · to reach us, use the contact form there.</p>
